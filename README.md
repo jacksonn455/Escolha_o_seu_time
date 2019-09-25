@@ -1,9 +1,7 @@
 Escolha o seu Time
 ===============================================
 
---------------------
-
-- Aplicativo Desenvolvido para achar times de desenvolvimento para Startups.
+- Aplicativo Desenvolvido para achar times em Startups.
 
 --------------------
 
