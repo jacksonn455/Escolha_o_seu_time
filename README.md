@@ -7,4 +7,16 @@ Escolha o seu Time
 
 --------------------
 
-![](https://github.com/jacksonn455/conversor_app/blob/master/conversor.png)
+![](https://github.com/jacksonn455/Escolha_o_seu_time/blob/master/pessoa.png)
+
+--------------------
+
+![](https://github.com/jacksonn455/Escolha_o_seu_time/blob/master/pessoa1.png)
+--------------------
+
+![](https://github.com/jacksonn455/Escolha_o_seu_time/blob/master/pessoa2.png)
+--------------------
+
+![](https://github.com/jacksonn455/Escolha_o_seu_time/blob/master/pessoa3.png)
+
+
